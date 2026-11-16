@@ -1,4 +1,4 @@
-## Hi there 👋
+![Sergio-WebDev42 banner](swd_banner.png)
 
 <!--
 **Sergio-WebDev42/Sergio-WebDev42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
